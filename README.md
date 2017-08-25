@@ -11,7 +11,28 @@
 
 ## <a name = "about"> What is the LinkedEarth wiki? </a>
 
+The LinkedEarth wiki leverages semantic wiki technology to crowdsource the curation and standards development of paleoclimate data. Like traditional wikis, they enable the collaborative authoring of content. Secure access and time-stamped content also enable the tracking of changes and the accountability of users, as well as moderation capabilities by community members of recognized expertise. In contrast to traditional wikis, semantic wikis allow contributors to assign *meaning* to their content, specifying relationships between the objects they describe.
+
+This enables complex queries to be performed on the database, using the [SPAQRL Query language](https://www.w3.org/TR/rdf-sparql-query/).
+
+To learn more about the LinkedEarth wiki, see [this page](http://linked.earth/projects/linkedearth-wiki/).
+
 ## <a name = "jupyter"> Queries and Jupyter Notebook </a>
+
+The Jupyter Notebook included in this repository aimed to enable querying the LinkedEarth wiki with no to little coding knowledge (besides installing Python on your computer).
+
+This is Notebook is not meant to replace a full API, which will be in the works soon.
+
+This Notebook allows to query the dataset for the most often searched properties (and combination thereof):
+
+* ArchiveType (e.g. marine sediment, coral, speleothem)
+* ProxyObservationType (e.g. D18O, Mg/Ca, TRW)
+* InferrecVariableType (e.g. SST, E-P)
+* Sensor Genus and Species (e.g. Globigerinoides ruber)
+* Interpretation (e.g., sea surface temperature)
+* Age (Min/Max/Length of the record)
+* Location (Lat/Lon/Altitude)
+* Resolution
 
 ## <a name = "quickstart"> Quickstart Guide </a>
 
