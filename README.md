@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/101119446.svg)](https://zenodo.org/badge/latestdoi/101119446)
 [![NSF-1541029](https://img.shields.io/badge/NSF-1541029-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1541029)
 
 # Querying the LinkedEarth wiki
